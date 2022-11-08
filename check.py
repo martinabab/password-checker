@@ -1,5 +1,5 @@
 '''
-A program that check if your password has ever been pwned.
+A program that checks if your password has ever been pwned.
 Using haveibeenpwned.com's API
 '''
 
